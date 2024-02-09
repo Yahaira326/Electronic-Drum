@@ -7,7 +7,6 @@ body {
   justify-content: center;
   background-color: pink;
 }
-
 h1 {
   font-size: 50px;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
@@ -16,11 +15,9 @@ h1 {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
   white-space: nowrap;
 }
-
 .container {
   text-align: center;
 }
-
 .btn {
   padding: 30px 50px;
   background-color: white;
@@ -38,11 +35,9 @@ h1 {
   cursor: pointer;
   text-transform: capitalize;
 }
-
 .btn:hover {
   color: pink;
 }
-
 .btn:active {
   background-size: 105%;
 }
